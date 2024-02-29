@@ -1,4 +1,4 @@
-# 💫 Hi👋!! I am Kaustav Sarkar
+# Hi👋!! I am Kaustav Sarkar
 <br>A passionate MERN Stack Developer 🚀<br>
 
 
