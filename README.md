@@ -1,6 +1,6 @@
 <div style="width:100%;height:20rem;" >
     
-<img  src="https://res.cloudinary.com/dujoneujx/image/upload/v1709207142/docs/joje7jvk2e9ry3lbqha4.gif" />
+<img style="height:100%;width:100%; object-fit:cover"  src="https://res.cloudinary.com/dujoneujx/image/upload/v1709207142/docs/joje7jvk2e9ry3lbqha4.gif" />
 </div>
 
 
