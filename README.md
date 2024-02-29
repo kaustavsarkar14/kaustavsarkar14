@@ -1,5 +1,4 @@
-
-![0_eIhVp0KXrXSSHORN](https://github.com/kaustavsarkar14/kaustavsarkar14/assets/93545845/2b2a7ecb-1cf7-4940-84ea-b0a5b9669541)
+[![MasterHead]([https://miro.medium.com/v2/resize:fit:1358/0*eIhVp0KXrXSSHORN.gif)](https://rishavchanda.io](https://github-production-user-asset-6210df.s3.amazonaws.com/93545845/308908707-2b2a7ecb-1cf7-4940-84ea-b0a5b9669541.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240229%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240229T114321Z&X-Amz-Expires=300&X-Amz-Signature=a8f05e221eb72e9bfd6ad7b9d22ee9e4222980677c84c7c8d1e09012e2fbc342&X-Amz-SignedHeaders=host&actor_id=93545845&key_id=0&repo_id=515093247))
 
 
 # Hi👋!! I am Kaustav Sarkar
