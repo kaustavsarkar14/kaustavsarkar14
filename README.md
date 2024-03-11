@@ -81,4 +81,4 @@
 
 <p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaustavsarkar14&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
 
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustavsarkar14&&theme=tokyonight" alt="rishavchanda" /></p>
+
